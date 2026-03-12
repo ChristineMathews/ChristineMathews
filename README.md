@@ -1,21 +1,27 @@
 <div align="center">
 
 ```
- ██████╗██╗  ██╗██████╗ ██╗███████╗████████╗██╗███╗   ██╗███████╗
-██╔════╝██║  ██║██╔══██╗██║██╔════╝╚══██╔══╝██║████╗  ██║██╔════╝
-██║     ███████║██████╔╝██║███████╗   ██║   ██║██╔██╗ ██║█████╗  
-██║     ██╔══██║██╔══██╗██║╚════██║   ██║   ██║██║╚██╗██║██╔══╝  
-╚██████╗██║  ██║██║  ██║██║███████║   ██║   ██║██║ ╚████║███████╗
- ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚══════╝
-███╗   ███╗ █████╗ ████████╗██╗  ██╗███████╗██╗    ██╗███████╗
-████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██╔════╝██║    ██║██╔════╝
-██╔████╔██║███████║   ██║   ███████║█████╗  ██║ █╗ ██║███████╗
-██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██╔══╝  ██║███╗██║╚════██║
-██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║███████╗╚███╔███╔╝███████║
-╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝ ╚══════╝
+⟨⟨⟨ GLYPH INTERFACE v2.0 — NEURAL UPLINK ESTABLISHED ⟩⟩⟩
+
+  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡
+
+  ▓█▓  ██████╗██╗  ██╗██████╗ ██╗███████╗████████╗██╗███╗   ██╗███████╗  ▓█▓
+  ▓█▓ ██╔════╝██║  ██║██╔══██╗██║██╔════╝╚══██╔══╝██║████╗  ██║██╔════╝  ▓█▓
+  ▓█▓ ██║     ███████║██████╔╝██║███████╗   ██║   ██║██╔██╗ ██║█████╗    ▓█▓
+  ▓█▓ ██║     ██╔══██║██╔══██╗██║╚════██║   ██║   ██║██║╚██╗██║██╔══╝    ▓█▓
+  ▓█▓ ╚██████╗██║  ██║██║  ██║██║███████║   ██║   ██║██║ ╚████║███████╗  ▓█▓
+  ▓█▓  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚══════╝  ▓█▓
+  ▓█▓ ███╗   ███╗ █████╗ ████████╗██╗  ██╗███████╗██╗    ██╗███████╗      ▓█▓
+  ▓█▓ ████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██╔════╝██║    ██║██╔════╝      ▓█▓
+  ▓█▓ ██╔████╔██║███████║   ██║   ███████║█████╗  ██║ █╗ ██║███████╗      ▓█▓
+  ▓█▓ ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██╔══╝  ██║███╗██║╚════██║      ▓█▓
+  ▓█▓ ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║███████╗╚███╔███╔╝███████║      ▓█▓
+  ▓█▓ ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝ ╚══════╝      ▓█▓
+
+  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello%2C+World.+I'm+Christine+%F0%9F%91%BE;Full-Stack+Engineer+%7C+Problem+Solver;Building+the+Future%2C+One+Commit+at+a+Time;Open+Source+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=%E2%9F%A8+MLOps+AI+Engineer+%E2%9F%A9;Operationalizing+Intelligence+%7C+One+Pipeline+at+a+Time;Model+Training+%E2%86%92+Deployment+%E2%86%92+Monitor+%E2%86%92+Repeat;LLMOps+%7C+DataOps+%7C+Platform+Engineering;%E2%97%88+Bridging+Research+and+Production+%E2%97%88" alt="Typing SVG" />
 
 <br/>
 
@@ -24,82 +30,122 @@
 
 </div>
 
----
-
 <div align="center">
 
-## ◈ SYSTEM BOOT SEQUENCE INITIATED ◈
+```
+⌬ ─────────────────────────────────────────────────────── ⌬
+         ◉  MLOPS COMMAND INTERFACE  ◉
+⌬ ─────────────────────────────────────────────────────── ⌬
+```
 
 </div>
 
 ```yaml
-> Initializing Christine.exe ............................................ [OK]
-> Loading skills matrix ................................................ [OK]
-> Establishing neural link ............................................. [OK]
-> Engaging creativity modules .......................................... [OK]
-> Welcome to the future of development. ................................ [READY]
+⟦ SYSTEM ⟧  Booting MLOps kernel ...................................... [OK]
+⟦ MODEL  ⟧  Loading inference runtime ................................. [OK]
+⟦ DATA   ⟧  Connecting feature store .................................. [OK]
+⟦ INFRA  ⟧  Provisioning compute cluster .............................. [OK]
+⟦ PIPE   ⟧  Orchestrating ML pipeline ................................. [OK]
+⟦ MONITOR⟧  Activating drift detection ................................ [OK]
+⟦ READY  ⟧  Neural interface online. Engage. .......................... [▶▶▶]
 ```
 
----
+<div align="center">
 
-## 🛸 About Me
+```
+▣ ══════════════════════════════════════════════════════════ ▣
+```
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
+</div>
+
+## ⟨⟨ ◈ IDENTITY NODE ◈ ⟩⟩
+
+<img align="right" alt="MLOps" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
 
 ```python
 class ChristineMathews:
     def __init__(self):
-        self.name       = "Christine Mathews"
-        self.role       = "Software Developer"
-        self.location   = "🌍 Earth | The Milky Way"
-        self.languages  = ["Python", "JavaScript", "...and more"]
-        self.interests  = [
-            "🚀 Building scalable systems",
-            "🤖 Exploring AI & ML",
-            "🌐 Open-source contributions",
-            "🎨 Creative problem solving",
+        self.name        = "Christine Mathews"
+        self.role        = "MLOps AI Engineer"
+        self.location    = "⬡ Earth | The Milky Way"
+        self.stack       = ["Python", "Bash", "SQL", "YAML"]
+        self.ml_focus    = [
+            "◈ Model Training, Tuning & Evaluation",
+            "◈ ML Pipeline Orchestration (Airflow, Kubeflow)",
+            "◈ Model Serving & Inference Optimization",
+            "◈ LLMOps — fine-tuning, RAG, prompt engineering",
+            "◈ Feature Stores & Data Versioning (DVC, Feast)",
+            "◈ Experiment Tracking (MLflow, W&B)",
+            "◈ Observability — drift detection & monitoring",
         ]
-        self.currently  = "Architecting the next big thing"
-        self.fun_fact   = "I debug with curiosity and ship with confidence"
+        self.infra       = ["Kubernetes", "Docker", "Terraform", "GCP/AWS"]
+        self.currently   = "Building production-grade AI systems at scale"
+        self.philosophy  = "Models in notebooks are dreams; models in prod are reality"
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing 🚀")
+    def execute(self):
+        print("⟨ Neural link active ⟩ Let's operationalize intelligence. ◈")
 
 me = ChristineMathews()
-me.say_hi()
+me.execute()
 ```
 
 <br clear="right"/>
 
----
-
-## ⚡ Tech Arsenal
-
 <div align="center">
 
-### 🔵 Languages
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### 🟢 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### 🔴 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+```
+▣ ══════════════════════════════════════════════════════════ ▣
+```
 
 </div>
 
----
+## ⟨⟨ ◈ TECH ARSENAL — MLOPS EDITION ◈ ⟩⟩
 
-## 📡 GitHub Telemetry
+<div align="center">
+
+### ⬡ Core Languages
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![YAML](https://img.shields.io/badge/YAML-0D1117?style=for-the-badge&logo=yaml&logoColor=CB171E)
+
+### ⬡ ML & AI Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+
+### ⬡ MLOps & Orchestration
+![MLflow](https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge&logo=mlflow&logoColor=0194E2)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-0D1117?style=for-the-badge&logo=kubeflow&logoColor=00D9FF)
+![Apache Airflow](https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
+![Weights & Biases](https://img.shields.io/badge/W%26B-0D1117?style=for-the-badge&logo=weightsandbiases&logoColor=FFBE00)
+![DVC](https://img.shields.io/badge/DVC-0D1117?style=for-the-badge&logo=dvc&logoColor=945DD6)
+
+### ⬡ Infrastructure & Platform
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=7B42BC)
+![Google Cloud](https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+### ⬡ Dev & Collaboration
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+</div>
+
+<div align="center">
+
+```
+▣ ══════════════════════════════════════════════════════════ ▣
+```
+
+</div>
+
+## ⟨⟨ ◈ TELEMETRY UPLINK ◈ ⟩⟩
 
 <div align="center">
 
@@ -114,21 +160,34 @@ me.say_hi()
 
 </div>
 
----
+<div align="center">
 
-## 🌌 Current Mission Log
+```
+▣ ══════════════════════════════════════════════════════════ ▣
+```
 
-| Status | Mission |
-|--------|---------|
-| 🔭 Working on | Building something incredible |
-| 🌱 Learning | New technologies every day |
-| 👯 Looking to | Collaborate on open-source projects |
-| 💬 Ask me about | Code, creativity & problem solving |
-| ⚡ Fun fact | Every expert was once a beginner |
+</div>
 
----
+## ⟨⟨ ◈ ACTIVE MISSION LOG ◈ ⟩⟩
 
-## 🔗 Establish Contact
+| ⬡ Glyph | ◈ Node | ⟦ Signal ⟧ |
+|:-------:|--------|-----------|
+| ⟨▶⟩ | **Training** | Building production ML pipelines end-to-end |
+| ⟨⌬⟩ | **Deploying** | Shipping models to Kubernetes at scale |
+| ⟨◉⟩ | **Studying** | LLMOps, RAG architectures & AI observability |
+| ⟨⬡⟩ | **Seeking** | Open-source MLOps collaborations |
+| ⟨◈⟩ | **Ask me about** | ML systems design, pipelines & model lifecycle |
+| ⟨∿⟩ | **Mantra** | "A model not in production is just a hypothesis" |
+
+<div align="center">
+
+```
+▣ ══════════════════════════════════════════════════════════ ▣
+```
+
+</div>
+
+## ⟨⟨ ◈ ESTABLISH NEURAL LINK ◈ ⟩⟩
 
 <div align="center">
 
@@ -138,15 +197,17 @@ me.say_hi()
 
 </div>
 
----
-
 <div align="center">
 
 ```
+⟨⟨⟨ ◈ ⬡ ◈ ⬡ ◈ ⬡ ◈ ⬡ ◈ ⬡ ◈ ⬡ ◈ ⬡ ◈ ⬡ ◈ ⬡ ◈ ⬡ ◈ ⟩⟩⟩
+
 ╔══════════════════════════════════════════════════════════╗
-║  "The best way to predict the future is to invent it."   ║
-║                               — Alan Kay                 ║
+║  ◈  "The model is never done — only deployed."  ◈        ║
+║            — MLOps Axiom                                 ║
 ╚══════════════════════════════════════════════════════════╝
+
+⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡  ◈  ⬡
 ```
 
 ⭐ **If you like what you see, consider starring a repo!** ⭐
